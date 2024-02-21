@@ -1,0 +1,16 @@
+*{
+   background-color:cadetblue; 
+}
+h1{
+    color:white;
+}
+.para{
+    background-color: white;
+    color: black;
+}
+#id{
+    color:indigo;
+}
+a:hover{
+ background-color:red;
+}
